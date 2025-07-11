@@ -132,6 +132,7 @@ nav{
     font-size: 80px;
     margin: 0;
 }
+
 .section-subtitle{
     color:#000000;
     font-weight: 400px;
@@ -175,4 +176,32 @@ nav{
 .banner-date{
     font-weight: 200px;
     font-size: 15px;
+}
+/* focuse section */
+.focus-section{
+
+    background-color: white;
+    border-radius: 14px;
+    text-align: center;
+    /* margin: 100px 150px; */
+}
+.focus-content{
+    padding: 5px 200px;
+}
+.focus-title{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.focus-description{
+    margin-top: 20px;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.5)
+    margin-bottom: 20px;
+}
+.focus-bg-img{
+    border-radius: 48px;
+    height: 360px;
+    margin-top: 30px;
+    margin-bottom: 50px;
 }
