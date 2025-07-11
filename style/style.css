@@ -204,4 +204,46 @@ nav{
     height: 360px;
     margin-top: 30px;
     margin-bottom: 50px;
+}/* touch section style */
+.touch-section{
+    display: flex;
+    gap: 100px;
+    padding: 50px 150px;
+    padding: 0px 150px;
+    align-items: center;
+    margin-top: 50px;
+}
+.touch-container{
+    width: 50%;
+}
+.touch-section-title{
+    font-weight: bold;
+    font-size: 95px;
+}
+.form-label{
+    font-weight: 500px;
+    font-size: 18px;
+    margin-bottom: 18px;
+}
+.touch-section input[type="text"],input[type="email"]{
+ background-color: white;
+    padding: 20px;
+    height: 10px;
+    border: none;
+    border-radius: 10px;
+    width: 80%;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+}
+.touch-section textarea{
+     background-color: white;
+    padding: 20px 30px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+    width: 75%;
+}
+.container-button{
+    width: 100%;
 }
