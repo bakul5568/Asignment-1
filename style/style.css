@@ -247,3 +247,27 @@ nav{
 .container-button{
     width: 100%;
 }
+/* footer section */
+.text-color{
+    color: rgba(137, 135, 161, 1);
+}
+.footer-section{
+    background-color: white;
+    padding: 100px 400px;
+    text-align: center;
+    
+}
+.footer-title{
+    font-weight: 900px;
+    font-size: 100px;
+    color: #4E47FF;
+    margin: 0;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+}
+/* Copyright*/
+  .footer-text{
+    text-align: center;
+  }
