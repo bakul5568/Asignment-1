@@ -138,3 +138,41 @@ nav{
     font-size: 20px;
    
 }
+/* User feedback section */
+.user-feedback{
+    padding: 100px 20px;
+}
+.user-feedback-title{
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+    padding: ;
+}
+.Designers{
+    display: flex;
+    gap: 20px;
+}
+.star{
+    background-color:white;
+    border-radius: 15px;
+    padding: 24px;
+    text-align: left;
+    /* border: 0.5px solid #f8c8c8; */
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.user-profile{
+    display: flex;
+    gap: 12px;
+}
+.profile{
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+}
+.banner-date{
+    font-weight: 200px;
+    font-size: 15px;
+}
